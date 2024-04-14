@@ -5,13 +5,10 @@ import Login from './Component/login/login'
 const App = () => {
   let LoggedIn = false;
   return (
-    <>{ LoggedIn ?
-      <>
-        <Sidebar/>  
-        <Main/>
-      </>
-      :<Login/>}
-    </>);
+    <>
+    <Sidebar/>
+    <Main/>
+    </>
 }
 
 export default App
