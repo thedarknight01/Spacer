@@ -32,7 +32,7 @@ Once Spacer is running, users can:
 We welcome feedback and suggestions for improving Spacer. If you encounter any issues or have ideas for enhancements, please feel free to submit an issue or pull request.
 
 ## Contributors
-Spacer is maintained by [Your Name or Organization](link-to-your-website-or-profile).
+Spacer is maintained by [Nitin Tiwari](https://www.linkedin.com/in/nitin-tiwari4/).
 
 ## License
-This project is licensed under the [MIT License](link-to-license-file).
+This project is licensed under the [MIT License]().
