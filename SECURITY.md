@@ -15,14 +15,6 @@ The purpose of this Security Policy is to:
 
 ## 3. Scope
 
-This Security Policy applies to all employees, contractors, vendors, and third-party entities who have access to [Your Organization Name]'s systems, networks, and data. It encompasses all information assets, including but not limited to:
-
-- Electronic data
-- Physical assets
-- Software applications
-- Network infrastructure
-- Cloud services
-- Mobile devices
 
 ## 4. Security Controls
 
@@ -73,4 +65,4 @@ This Security Policy is subject to periodic review and updates to reflect change
 
 ## 9. Contact Information
 
-For questions, concerns, or clarification regarding this Security Policy, please contact [Name/Department] at [Email Address] or [Phone Number].
+For questions, concerns, or clarification regarding this Security Policy, please contact .
