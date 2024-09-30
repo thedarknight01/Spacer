@@ -70,19 +70,3 @@ This project is maintained by **[Your Name]** and supported by an active communi
 For a detailed list of contributors and their contributions, please refer to the [CONTRIBUTORS.md](Contribution.md) file.
 
 
-
-### Key Sections:
-
-1. **Project Title and Description**: Clearly states the purpose of the project.
-2. **Features**: Highlights key functionalities.
-3. **Getting Started**: Step-by-step instructions for installation and setup.
-4. **Usage**: Describes how users can interact with the application.
-5. **Screenshots**: Visuals to showcase the application (replace with actual paths).
-6. **Feedback & Contributions**: Encourages community involvement and provides links for issues and contributions.
-7. **Contributors**: Acknowledges the project maintainer and contributors.
-
-8. **License**: Mentions the licensing information.
-
-Feel free to adjust any sections or add more details as necessary!
-
-(https://www.linkedin.com/in/nitin-tiwari4/).
