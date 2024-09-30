@@ -31,8 +31,11 @@ Once Spacer is running, users can:
 ## Feedback
 We welcome feedback and suggestions for improving Spacer. If you encounter any issues or have ideas for enhancements, please feel free to submit an issue or pull request.
 
+
 ## Contributors
+
+Contributers can check [Contribution.md]() file for more detail.
+
 Spacer is maintained by [Nitin Tiwari](https://www.linkedin.com/in/nitin-tiwari4/).
 
-## License
-This project is licensed under the [MIT License]().
+
